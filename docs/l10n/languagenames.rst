@@ -14,6 +14,8 @@ on the English name.
 
    * - English
      - Original
+   * - Angika
+     - अंगिका 
    * - Afrikaans
      - Afrikaans
    * - Arabic
